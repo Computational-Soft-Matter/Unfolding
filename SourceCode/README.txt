@@ -1,5 +1,5 @@
 ## Selecting testcase: (MainUnfold.cpp)
- - Choose to run a icosahedron, parabola, or dome by selecting "swtch" accordingly.
+ - Choose to run a icosahedron, parabola, or dome by selecting "swtch" accordingly. (The subsequent input files are already specified in the code and can be downloaded from the 'InputFiles' directory.
  - Modify "mststeps" to determine the number of MST iterations to search for unfolding path.
  - Modify "minim" to toggle between running distortion minimization.
 
