@@ -16,3 +16,5 @@
  - Select desired LBFGS parameters.
  - Select how many iterations of unfolding to run.
  - Select when to start printing energy and projected gradients of the LBFGS process.
+
+## Minimization.cpp can be used instead of the MainUnfold.cpp to analyze the cases for figures 16-17.
